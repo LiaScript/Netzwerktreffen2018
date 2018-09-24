@@ -52,6 +52,10 @@ simplify(n!/(n+1)!)
 @eval
 
 
+## Bilder
+
+![Cosinus](img/Cosine.png)
+
 ## ASCII - Art
 
 
