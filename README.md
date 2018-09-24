@@ -20,6 +20,12 @@ link: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 Demo: Netzwerktreffen Hochschulforum Digitalisierung 2018
 
+https://LiaScript.github.io
+
+Kurs auf Github: https://github.com/liaScript/Netzwerktreffen2018
+
+Kurs auf LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Netzwerktreffen2018/master/README.md#1
+
 ## Das eLab Projekt
 
 !?[YouTube](https://www.youtube.com/embed/bICfKRyKTwE)
@@ -65,6 +71,7 @@ simplify(n!/(n+1)!)
 
 ## Javascript
 
+https://gionkunz.github.io/chartist-js/
 
 ```yaml
 {
