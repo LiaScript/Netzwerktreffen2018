@@ -39,6 +39,12 @@ Dieser Workshop stellt einige der Features von LiaScript im Rahmen des Netzwerkt
 
 ## Das eLab Projekt
 
+<!--
+class = "animated rollIn"
+style = "animation-delay: 2s;
+         color: purple;
+         -webkit-filter: blur(5px);        filter: grayscale(100%);
+         " -->
 !?[YouTube](https://www.youtube.com/embed/bICfKRyKTwE)
 
 ## Algebrite
