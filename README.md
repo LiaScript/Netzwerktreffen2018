@@ -26,6 +26,13 @@ Kurs auf Github: https://github.com/liaScript/Netzwerktreffen2018
 
 Kurs auf LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Netzwerktreffen2018/master/README.md#1
 
+Autorenliste
+
+| Name                    | Hochschule/Einrichtung |
+|:------------------------|:-----------------------|
+| Andre Dietrich          | OVGU Magdeburg         |
+| Sebastian Zug           | OVGU Magdeburg         |
+
 ## Einleitung
 
 Dieser Workshop stellt einige der Features von LiaScript im Rahmen des Netzwerktreffens "Hochschulforum Digitalisierung" vor.
