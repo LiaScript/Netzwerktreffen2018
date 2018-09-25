@@ -26,6 +26,10 @@ Kurs auf Github: https://github.com/liaScript/Netzwerktreffen2018
 
 Kurs auf LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/Netzwerktreffen2018/master/README.md#1
 
+## Einleitung
+
+Dieser Workshop stellt einige der Features von LiaScript im Rahmen des Netzwerktreffens "Hochschulforum Digitalisierung" vor.
+
 ## Das eLab Projekt
 
 !?[YouTube](https://www.youtube.com/embed/bICfKRyKTwE)
