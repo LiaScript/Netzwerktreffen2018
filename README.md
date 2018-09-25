@@ -16,9 +16,10 @@ link: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 -->
 
-# Netzwerktreffen2018
+# Netzwerktreffen 2018
 
 Demo: Netzwerktreffen Hochschulforum Digitalisierung 2018
+
 
 https://LiaScript.github.io
 
@@ -43,7 +44,7 @@ Dieser Workshop stellt einige der Features von LiaScript im Rahmen des Netzwerkt
 class = "animated rollIn"
 style = "animation-delay: 2s;
          color: purple;
-         -webkit-filter: blur(5px);        filter: grayscale(100%);
+         -webkit-filter: blur(5px);
          " -->
 !?[YouTube](https://www.youtube.com/embed/bICfKRyKTwE)
 
@@ -79,16 +80,16 @@ simplify(n!/(n+1)!)
 
 
       |              *
-    y |             * *
+    y |             *   
     - |
     A |            *   *
-    c |  r  r  r  r  r  r  r  r  r
+    c |  r           r          r
     h |           *     *
     s |          *       *
     e |        *           *
       |  * *                   * *
       +---------------------------
-      0         x-Achse         10
+      0         x-axis         100
 
 ## Javascript
 
@@ -121,3 +122,28 @@ new Chartist.Line('#chart', @input, {
 </script>
 
 <div class="ct-chart ct-golden-section" id="chart"></div>
+
+
+## Effekte
+
+               --{{0 French Female}}--
+Hallo dies ist eine kleine Einführung in die Nutzung von Effekten.
+
+      --{{1}}--
+Punkt 1 ist eine Tabelle.
+
+           {{1-4}}
+| Header 1   | Header 2   |
+| :--------- | :--------- |
+| Item 1     | {3}{Item 2}     |
+
+
+
+        --{{2 Australian Male}}--
+This is an Textblock example.
+
+
+   {{2}}
++ block
++ block
++ block
